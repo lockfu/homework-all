@@ -36,4 +36,4 @@
 ##删除用户信息
   * 删除用户信息做二次提示
   * 确认删除后，根据用户id进行删除操作
-  ![](https://github.com/lockfu/homework-all/blob/master/app/raw/scatch8.png)
+  ![](https://github.com/lockfu/homework-all/blob/master/app/raw/delete.png)
